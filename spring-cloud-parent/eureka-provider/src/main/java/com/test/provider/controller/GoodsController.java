@@ -23,7 +23,7 @@ public class GoodsController {
     public Goods findOne(@PathVariable("id") int id){
 
         Goods goods = goodsService.findOne(id);
-        goods.setTitle(goods.getTitle()+":"+port); //设置端口号
+        goods.setTitle(goods.getTitle()+":"+port);
 
         return goods;
     }
