@@ -12,6 +12,8 @@ public class MyRule {
     @Bean
     public IRule rule(){
         // return new RetryRule();
+        // return new WeightedResponseTimeRule();
+        // return new BestAvailableRule();
         return new RoundRobinRule();
     }
 }
