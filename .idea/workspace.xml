@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb905f9e-6a41-4b36-817a-5bd6a78d00ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/java/com/test/eureka/EurekaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/java/com/test/eureka/EurekaApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="bb905f9e-6a41-4b36-817a-5bd6a78d00ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/study/cscd58/Network-Load-Balancer"
+    "last_opened_file_path": "C:/study/cscd58/Network-Load-Balancer/spring-cloud-parent"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
