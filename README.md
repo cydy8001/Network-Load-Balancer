@@ -1,6 +1,7 @@
 # Network Load Balancer
 Demo link: https://youtu.be/mysKYVQbRAI
 
+This project follows proof of principle of the network load balancer.
 
 For this project, I made a network load balancer using different network loading algorithm. The supported network
 loading algorithm are: Retry Rule, Round Robin Rule, Random Rule, Weighted Response Time Rule, and Best Available Rule.
@@ -29,11 +30,11 @@ Otherwise, there will be conflict.
 
 ## Run Maven
 Maven contains many dependencies. So, it is important to download all dependencies required. 
-If you are using Intellij, you can right click the 4 pom.xml files and load the dependencies.
+If you are using Intellij, you can right-click the 4 pom.xml files and load the dependencies.
 In your Run Edit configuration: Allow multiple instances in Provider.
 
 ## Config
-You can modify the application.yml file under the resources folder.
+You can modify the application.yml file under the resources' folder.
 ```agsl
 server:
   port: 8000
@@ -54,7 +55,7 @@ spring:
     name: eureka-provider
 
 ```
-All of the consumer ,provider and server have the application.yml file. So, you can modify all of them but I suggest 
+All the consumer, provider and server have the application.yml file. So, you can modify all of them but I suggest 
 keeping them default.
 
 
